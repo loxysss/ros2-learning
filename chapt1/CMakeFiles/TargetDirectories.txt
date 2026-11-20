@@ -1,0 +1,3 @@
+/home/loxy/chapt1/CMakeFiles/learn_cmake.dir
+/home/loxy/chapt1/CMakeFiles/edit_cache.dir
+/home/loxy/chapt1/CMakeFiles/rebuild_cache.dir
